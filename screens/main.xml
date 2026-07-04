@@ -1,15 +1,17 @@
 <screen>
+    <styles>
+        <style name="style_main" bg_color="#bg"/>
+    </styles>
+
     <view>
         <style name="style_main"/>
 
-        <!-- 标题 -->
         <lv_label text="ESP32-P4 LVGL UI"
                   style_text_color="#white"
                   align="top_mid" y="40"/>
 
-        <!-- 居中按钮 -->
         <lv_button align="center" width="200" height="60"
-                   styles="btn_accent pr:pressed=btn_pressed">
+                   style_bg_color="#accent" style_radius="12">
             <lv_label text="Start" align="center"/>
         </lv_button>
     </view>

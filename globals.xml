@@ -4,10 +4,4 @@
         <color name="accent" value="0x3399FF"/>
         <color name="white" value="0xFFFFFF"/>
     </consts>
-
-    <styles>
-        <style name="style_main" bg_color="#bg"/>
-        <style name="btn_accent" bg_color="#accent" radius="12"/>
-        <style name="btn_pressed" bg_color="0x2277CC"/>
-    </styles>
 </globals>
