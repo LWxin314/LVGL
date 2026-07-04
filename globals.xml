@@ -1,7 +1,2 @@
 <globals>
-    <consts>
-        <color name="bg" value="0x222244"/>
-        <color name="accent" value="0x3399FF"/>
-        <color name="white" value="0xFFFFFF"/>
-    </consts>
 </globals>
