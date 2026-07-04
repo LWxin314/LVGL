@@ -1,0 +1,12 @@
+dependencies:
+  idf:
+    version: ">=5.5.3"
+  lvgl/lvgl:
+    version: "9.4.*"
+    public: true
+  espressif/esp32_p4_function_ev_board_noglib:
+    version: "5.2.*"
+    public: true
+  espressif/esp_lvgl_adapter:
+    version: "0.3.*"
+    public: true

@@ -1,0 +1,7 @@
+<project name="lvgl_ui" lvgl_version="9.5.0">
+    <targets>
+        <target name="esp32_p4_1024x600">
+            <display width="1024" height="600"/>
+        </target>
+    </targets>
+</project>
